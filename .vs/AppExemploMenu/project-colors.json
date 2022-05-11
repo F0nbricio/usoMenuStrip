@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "deb88a64-4dfc-4f34-a2d6-7fabea28a63f": {
+      "ProjectGuid": "deb88a64-4dfc-4f34-a2d6-7fabea28a63f",
+      "DisplayName": "AppExemploMenu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
